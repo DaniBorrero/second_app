@@ -8,6 +8,8 @@ class PagesController < ApplicationController
         Rails.logger.info("##########################################################################################")
         Rails.logger.info("##########################################################################################")
     end
-    def test      
+    def test
     end
+    def about_us
+    end    
 end
